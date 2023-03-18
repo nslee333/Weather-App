@@ -6,6 +6,15 @@ This project really sunk in how splitting components into different files can re
 
 Another thing to note, it is not at all responsive to mobile design. I was focused on consuming and exposing API data more than anything while building this project.
 
+I also ended up switching out the weather API that I was using three times.
+
+Since I'm updating this Readme 3 months later I can't remember the reasons why I swapped the API out everytime. However, I do remember being frustrated because I ran out of API requests accidentally while working on the frontend.
+
+On the server side I ended up with a solution where after I had gotten the request, I would cache the data on my server side and 
+give a cached copy of the data to my frontend to avoid excessive API requests.
+
+I also used Postman quite a bit for learning how to request the different APIs correctly, seeing what data was returned etc.
+
 Overview:<br> 
     - Weather App<br> 
     - Features<br>
