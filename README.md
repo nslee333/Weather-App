@@ -1,6 +1,10 @@
 This is a weather app built using OpenWeatherMap's free API.
 
-The react App file is a monstrosity, and I hate it. gonna avoid doing that again.
+The App file turned into a mess of components. Looking back at it now, it's a real mess. 
+
+This project really sunk in how splitting components into different files can really make it easier to navigate and develop in.
+
+Another thing to note, it is not at all responsive to mobile design. I was focused on consuming and exposing API data more than anything while building this project.
 
 Overview:<br> 
     - Weather App<br> 
