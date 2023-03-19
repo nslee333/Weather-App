@@ -40,7 +40,7 @@ Built using:<br>
 
 Operation:<br> 
     &ensp;1. Terminal pointed towards server root folder.<br> 
-       &ensp;&ensp;-  `npm run build`, then after build is completed -`npm run start`.<br> 
+       &ensp;&ensp;-  `npm run build`, after build is done -> `npm run start`.<br> 
     &ensp;2. New terminal pointed towards client root folder.<br> 
        &ensp;&ensp;-  `npm run start`<br> 
     &ensp;3. localhost:3000 should open automatically.<br> 
